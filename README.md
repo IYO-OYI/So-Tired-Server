@@ -1,35 +1,45 @@
-##  세상 피곤함 마인크래프트 서버 
+# 👋 Welcome to A Product
 
-**바닐라의 재미를 더하다!**
+{% hint style="info" %}
+**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+{% endhint %}
 
-1.21 버전 패브릭 기반의 서버로, 더욱 편리하고 즐거운 마인크래프트 생활을 제공합니다.
+## Overview
 
-### 핵심 기능
+Here are a couple of example overviews from products with really great docs:
 
-* **자동 설치 모드팩:** 세상 편안함 공식 모드팩을 통해 번거로운 설치 과정 없이 간편하게 서버에 접속할 수 있습니다.
-* **자유로운 탐험:** `/rtp` 명령어로 원하는 곳 어디든 랜덤 이동이 가능합니다.
-* **PVP 불가:** 시스템 상 PVP를 제한하지 않은 이유는 친구들끼리 때리고 놀 수 있게 제한하지 않은 것입니다.
-* **지역 채팅:** 주변 플레이어와만 소통하며 더욱 친밀한 게임 환경을 만들 수 있습니다.
+> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+>
+> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+>
+> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-### 규칙
+> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
+>
+> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-* **건축 규칙:** 울타리를 먼저 두른 후 그 안에 집을 지어야 합니다. 울타리가 없는 건축물은 철거될 수 있습니다.
-* **채팅 규칙:** 특별한 상황이 아니면 `/chat local`을 통해 로컬 채팅을 이용해주세요.
-* **기타:** 규칙은 서버의 발전과 함께 추가될 수 있습니다.
+## Quick links
 
-### 자주 묻는 질문
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
+{% endcontent-ref %}
 
-* **Q. 서버에 어떤 모드가 설치되어 있나요?**
-  * A. 서버에 설치된 모드 및 설명은 [이곳](https://tired.gitbook.io/welcome/start/mods)을 눌러 확인하실 수 있습니다.
-* **Q. 서버는 언제까지 운영되나요?**
-  * A. 정식 오픈 후 최소 1년 이상 안정적인 운영을 목표로 하고 있습니다.
+{% content-ref url="overview/our-features.md" %}
+[our-features.md](overview/our-features.md)
+{% endcontent-ref %}
 
-### 커뮤니티
+## Get Started
 
-* **디스코드:** [고민 중]
-* **공식 가이드:** [https://tired.gitbook.io/]
+We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-### 마무리
+{% content-ref url="fundamentals/getting-set-up/" %}
+[getting-set-up](fundamentals/getting-set-up/)
+{% endcontent-ref %}
 
-세상 피곤함 서버는 항상 발전하고 있으며, 여러분의 의견을 소중하게 생각합니다.   
-의견이나 제안이 있는 경우 언제든지 환영입니다!
+{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
+[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% endcontent-ref %}
