@@ -9,7 +9,8 @@
 
 * [🍦 서버 정보](start/about.md)
 * [🥥 서버 규칙](start/undefined.md)
-* [🧊 모드 정보](start/mods.md)
+* [🧊 모드 정보](start/mods/README.md)
+  * [🍙 주요 기능](start/mods/undefined.md)
 * [🍾 업데이트 내역](start/update.md)
 
 ## 가이드 <a href="#guide" id="guide"></a>

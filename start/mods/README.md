@@ -214,6 +214,30 @@ Sodium의 사용 경험 향상
 
 </details>
 
+<details>
+
+<summary>Flan</summary>
+
+금 곡괭이를 통해 땅 보호
+
+</details>
+
+<details>
+
+<summary>Patbox's Brewery</summary>
+
+그라가스 제조기
+
+</details>
+
+<details>
+
+<summary>PolyFactory</summary>
+
+자동화 공장
+
+</details>
+
 [^1]: 이 모드를 지원하는 셰이더에서만 작동함
 
 [^2]: <mark style="color:yellow;">**Tab**</mark>키

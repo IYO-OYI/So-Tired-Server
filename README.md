@@ -5,9 +5,9 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: false
 ---
@@ -30,6 +30,8 @@ layout:
 
 ***
 
+## 아래의 버튼을 눌러 살펴보세요!
+
 {% content-ref url="start/about.md" %}
 [about.md](start/about.md)
 {% endcontent-ref %}
@@ -38,8 +40,8 @@ layout:
 [undefined.md](start/undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="start/mods.md" %}
-[mods.md](start/mods.md)
+{% content-ref url="start/mods/" %}
+[mods](start/mods/)
 {% endcontent-ref %}
 
 {% content-ref url="start/update.md" %}
