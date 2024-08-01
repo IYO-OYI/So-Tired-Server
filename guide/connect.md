@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🍞 접속 방법
 
 <details>
@@ -5,7 +19,6 @@
 <summary>접속 주소</summary>
 
 ```markdown
-// Some code
 tired.fun
 ```
 
