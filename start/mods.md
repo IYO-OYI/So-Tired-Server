@@ -1,7 +1,7 @@
 # 🧊 모드 정보
 
 {% hint style="info" %}
-
+이 문서는 서버에서 쓰이는 모드들에 대한 정보를 설명합니다.
 {% endhint %}
 
 <details>
