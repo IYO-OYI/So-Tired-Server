@@ -238,6 +238,38 @@ Sodium의 사용 경험 향상
 
 </details>
 
+<details>
+
+<summary>Small Ships</summary>
+
+대항해시대
+
+</details>
+
+<details>
+
+<summary>pvpsystem-v1.0</summary>
+
+PVP 비활성화
+
+</details>
+
+<details>
+
+<summary>antixray</summary>
+
+엑스레이 방지
+
+</details>
+
+<details>
+
+<summary>door knocking</summary>
+
+문 두드리기
+
+</details>
+
 [^1]: 이 모드를 지원하는 셰이더에서만 작동함
 
 [^2]: <mark style="color:yellow;">**Tab**</mark>키
