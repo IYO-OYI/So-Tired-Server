@@ -20,11 +20,14 @@ layout:
 
 ## 세상 피곤함 서버는
 
-마인크래프트의 기본 틀을 해치지 않으면서 더 나은 게임 플레이 환경 제공을 목표로 하는 서버입니다.
+마인크래프트의 기본 틀을 해치지 않으면서 더 나은 게임 플레이 환경 제공을 목표로 합니다.
+
+서버와 관련된 모든 문의는 [디스코드](https://discord.gg/AyrXUNaxXm)를 통해 티켓을 생성해주세요
 
 2024-08-01 기준 서버는 현재 오픈 준비 중이며, 계획된 목표는 다음과 같습니다.
 
-* [ ] 1개월 이내 성능 테스트
+* [x] 1개월 이내 성능 테스트 <mark style="color:green;">**(완료)**</mark>
+* [ ] 정식 오픈 전 최종 점검 <mark style="color:purple;">**(현재)**</mark>
 * [ ] 정식 오픈
 * [ ] 최소 1년간 안정적인 서비스 유지
 
@@ -40,8 +43,8 @@ layout:
 [undefined.md](start/undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="start/mods/" %}
-[mods](start/mods/)
+{% content-ref url="start/plugins/" %}
+[plugins](start/plugins/)
 {% endcontent-ref %}
 
 {% content-ref url="start/update.md" %}

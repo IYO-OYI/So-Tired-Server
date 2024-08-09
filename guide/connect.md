@@ -14,19 +14,23 @@ layout:
 
 # 🍞 접속 방법
 
-<details>
-
-<summary>접속 주소</summary>
-
-```markdown
+{% tabs %}
+{% tab title="접속 주소" %}
+```
 tired.fun
 ```
+{% endtab %}
 
-</details>
+{% tab title="서버 버전" %}
+1.21
+{% endtab %}
+{% endtabs %}
 
 ## 패브릭 로더가 설치되어 있는 경우
 
-서버에 접속하기 위해 아래의 서버 공식 모드팩을 설치합니다.
+~~서버에 접속하기 위해 아래의 서버 공식 모드팩을 설치합니다.~~\
+패브릭 -> 버킷 변경으로 인해 서버 공식 모드팩은 최적화 목적으로 업데이트됩니다.\
+더 높은 성능으로 즐기길 원하는 경우 모드팩을 설치해주세요
 
 {% embed url="https://modrinth.com/modpack/so-tired" %}
 
